@@ -12,12 +12,19 @@
 
 ## Cómo comenzar
 
-- Registrarse como usuario de EarthPulse. La manera más rápida es yendo a la página web de [SPAI](https://spai.earthpulse.ai/) e ir a `Login`.
-- Descargar o clonar este repositorio: `git clone https://github.com/fmariv/spai-workshop-jsl-2024.git`
-- Instala [Python](https://www.python.org/) si no lo tienes instalado y crea un entorno virtual. Se recomienda utilizar [miniconda](https://docs.anaconda.com/free/miniconda/), y la versión mínima de Python debe ser [3.8](https://www.python.org/downloads/).
-- Instala las librerías de Python necesarias: `pip install -r requirements.txt`
-- Ir a la primera [Jupyter](https://jupyter.org/) notebook, la cual es una introducción a los datos satelitales: [00_datos_satelitales](notebooks/00_datos_satelitales.ipynb).
-- Para un mejor seguimiento, se recomienda tener instalado [Visual Studio Code](https://code.visualstudio.com/) para visualizar y ejecutar las notebooks.
+Hay varias maneras de seguir la sesión.
+
+1. Simplemente presta atención a las demostraciones en vivo, y ejecuta los notebooks más tarde a su propio ritmo.
+
+2. Sigue las demostraciones en vivo en tu propio ordenador. Para ello, necesitarás lo siguiente.
+
+   - Registrarse como usuario de EarthPulse. La manera más rápida es yendo a la página web de [SPAI](https://spai.earthpulse.ai/) e ir a `Login`.
+   - Descargar o clonar este repositorio: `git clone https://github.com/fmariv/spai-workshop-jsl-2024.git`
+   - Instala [Python](https://www.python.org/) si no lo tienes instalado y crea un entorno virtual. Se recomienda utilizar [miniconda](https://docs.anaconda.com/free/miniconda/), y la versión mínima de Python debe ser [3.8](https://www.python.org/downloads/).
+   - Instala las librerías de Python necesarias: `pip install -r requirements.txt`
+   - Se recomienda tener instalado [Visual Studio Code](https://code.visualstudio.com/) para visualizar y ejecutar las notebooks.
+
+¿Preguntas? ¿Estáis listos? Vamos a empezar con la primera notebook, la cual es una introducción a los datos satelitales: [00_datos_satelitales](notebooks/00_datos_satelitales.ipynb).
 
 ## Recursos adicionales
 
@@ -33,3 +40,7 @@
 - [EO College resources](https://eo-college.org/all-resources/)
 - [EO Learn](https://eo-learn.readthedocs.io/en/latest/)
 - [Planet Interactive Guides](https://github.com/planetlabs/notebooks)
+
+## Comunidad
+
+Os animamos a uniros a nuestro servidor de [Discord](https://discord.com/invite/gCWyPzDjM2). Estaremos allí para responder cualquier pregunta que puedas tener durante la sesión, así como después del evento. También recibirás actualizaciones sobre el proyecto y podrás interactuar con otros usuarios, además de proporcionar comentarios y sugerencias.
