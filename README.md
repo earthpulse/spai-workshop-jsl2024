@@ -4,11 +4,18 @@
 
 ## Tabla de contenido
 
-1. a
-2. b
-3. c
-4. d
-   ...
+El taller va a estar fuertemente basado en Python. Vamos a ver lo siguiente.
+
+1. [Breve introducción a los datos satelitales y las librerías de Python más utilizadas a nivel geoespacial](./notebooks/00_datos_satelitales.ipynb)
+2. [Introducción a SPAI](./notebooks/01_spai.ipynb)
+3. [Acceso y descarga de datos con SPAI](./notebooks/02_acceso_datos.ipynb)
+4. [Procesado de datos con SPAI](./notebooks/03_procesado_datos.ipynb)
+5. [Inferencia con modelos de IA](./notebooks/04_inferencia_ia.ipynb)
+6. [Despliegue en la nube de un proyecto de SPAI](./notebooks/05_despliegue.ipynb)
+7. [Integrar un proyecto de SPAI con QGIS](./notebooks/06_integraciones.ipynb)
+8. [Desplegar un template de SPAI](./notebooks/07_templates.ipynb)
+9. [Utilizar SPAI Hub para desplegar aplicaciones listas para ser utilizadas](./notebooks/08_hub.ipynb)
+10. [Utilizar SPAI Builder para crear aplicaciones sin código](./notebooks/09_builder.ipynb)
 
 ## Cómo comenzar
 
