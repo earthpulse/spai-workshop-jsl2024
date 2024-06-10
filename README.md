@@ -16,6 +16,7 @@ El taller va a estar fuertemente basado en Python. Vamos a ver lo siguiente.
 8. [Desplegar un template de SPAI](./notebooks/07_templates.ipynb)
 9. [Utilizar SPAI Hub para desplegar aplicaciones listas para ser utilizadas](./notebooks/08_hub.ipynb)
 10. [Utilizar SPAI Builder para crear aplicaciones sin código](./notebooks/09_builder.ipynb)
+11. [Consideraciones finales](./notebooks/10_final.ipynb)
 
 ## Cómo comenzar
 
