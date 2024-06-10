@@ -4,7 +4,7 @@
 
 ## Tabla de contenido
 
-El taller va a estar fuertemente basado en Python. Vamos a ver lo siguiente.
+El taller va a estar muy basado en Python. Vamos a ver lo siguiente.
 
 1. [Breve introducción a los datos satelitales y las librerías de Python más utilizadas a nivel geoespacial](./notebooks/00_datos_satelitales.ipynb)
 2. [Introducción a SPAI](./notebooks/01_spai.ipynb)
@@ -34,6 +34,16 @@ Hay varias maneras de seguir la sesión.
 
 ¿Preguntas? ¿Estáis listos? Vamos a empezar con la primera notebook, la cual es una introducción a los datos satelitales: [00_datos_satelitales](notebooks/00_datos_satelitales.ipynb).
 
+Antes de nada, vamos con el primer cuestionario de introducción al taller. Podéis ir directamente al [enlace](https://docs.google.com/forms/d/e/1FAIpQLSeAsEGUlT3RAFV7dB-HORR1oD2vV0MVYiTcA69IIJqK00BhCg/viewform?embedded=true) o escanear el QR. Es el más largo, ¡lo prometemos! Los cuestionarios los podéis responder por vuestra cuenta, o responder interactivamente en la sesión. ¡Nos ayudáis a mejorar!
+
+<div style="text-align: center;">
+    <img src="img/qr-1.png" width=350>
+</div>
+
+## Comunidad
+
+Os animamos a uniros a nuestro servidor de [Discord](https://discord.com/invite/gCWyPzDjM2). Estaremos allí para responder cualquier pregunta que puedas tener durante la sesión, así como después del evento. También recibirás actualizaciones sobre el proyecto y podrás interactuar con otros usuarios, además de proporcionar comentarios y sugerencias.
+
 ## Recursos adicionales
 
 ### SPAI
@@ -48,7 +58,3 @@ Hay varias maneras de seguir la sesión.
 - [EO College resources](https://eo-college.org/all-resources/)
 - [EO Learn](https://eo-learn.readthedocs.io/en/latest/)
 - [Planet Interactive Guides](https://github.com/planetlabs/notebooks)
-
-## Comunidad
-
-Os animamos a uniros a nuestro servidor de [Discord](https://discord.com/invite/gCWyPzDjM2). Estaremos allí para responder cualquier pregunta que puedas tener durante la sesión, así como después del evento. También recibirás actualizaciones sobre el proyecto y podrás interactuar con otros usuarios, además de proporcionar comentarios y sugerencias.
