@@ -40,9 +40,17 @@ Antes de nada, vamos con el primer cuestionario de introducción al taller. Pod�
     <img src="img/qr-1.png" width=350>
 </div>
 
+> QR del primer cuestionario.
+
 ## Comunidad
 
 Os animamos a uniros a nuestro servidor de [Discord](https://discord.com/invite/gCWyPzDjM2). Estaremos allí para responder cualquier pregunta que puedas tener durante la sesión, así como después del evento. También recibirás actualizaciones sobre el proyecto y podrás interactuar con otros usuarios, además de proporcionar comentarios y sugerencias.
+
+<div style="text-align: center;">
+    <img src="img/discord-qr.png" width=350>
+</div>
+
+> QR del canal de Discord.
 
 ## Recursos adicionales
 
