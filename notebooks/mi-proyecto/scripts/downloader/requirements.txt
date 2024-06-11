@@ -1,0 +1,10 @@
+python-dotenv
+spai>=2024.6.6
+rasterio
+geopandas
+overpy
+geojson
+rioxarray
+odc-stac
+odc-geo==0.4.3
+pystac-client

@@ -1,0 +1,7 @@
+spai>=2024.6.6
+rasterio
+geopandas
+Pillow
+scikit-image
+tqdm
+matplotlib

@@ -1,0 +1,5 @@
+jupyter
+spai>=2024.6.6
+rasterio
+Pillow
+matplotlib
