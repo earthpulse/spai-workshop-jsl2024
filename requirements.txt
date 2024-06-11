@@ -15,6 +15,7 @@ dask==2023.5.0
 fiona==1.9.6
 fsspec==2024.6.0
 geopandas==0.13.2
+geojson==3.1.0
 idna==3.7
 importlib_metadata==7.1.0
 importlib_resources==6.4.0
@@ -52,8 +53,10 @@ rich==13.7.1
 rioxarray==0.13.4
 rpds-py==0.18.1
 schedule==1.2.2
+leafmap==0.33.0
 shapely==2.0.4
 six==1.16.0
+matplotlib==3.7.5
 snuggs==1.4.7
 spai==2024.6.6
 toolz==0.12.1
@@ -63,3 +66,4 @@ tzdata==2024.1
 urllib3==2.2.1
 xarray==2023.1.0
 zipp==3.19.2
+planetary-computer==1.0.0
