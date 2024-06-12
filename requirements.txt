@@ -58,7 +58,7 @@ shapely==2.0.4
 six==1.16.0
 matplotlib==3.7.5
 snuggs==1.4.7
-spai==2024.6.6
+spai==2024.6.11
 toolz==0.12.1
 typer==0.9.4
 typing_extensions==4.12.2
@@ -67,3 +67,4 @@ urllib3==2.2.1
 xarray==2023.1.0
 zipp==3.19.2
 planetary-computer==1.0.0
+ipykernel
